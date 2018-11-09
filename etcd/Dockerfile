@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.2.2
+FROM gcr.io/etcd-development/etcd:v3.3.10
